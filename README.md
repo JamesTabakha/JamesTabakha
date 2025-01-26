@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JamesTabakha
-- 👀 I’m interested in ... Data analysis or data science.
+- 👀 I’m interested in ... Data analysis and data science.
 - 🌱 I’m currently learning ... SQL, Tableau and Python.
 - 💞️ I’m looking to collaborate on ... Project that require using SQL, Tableau or Excel.
 - 📫 How to reach me ... Message me on here or email me jktabakha@gmail.com
